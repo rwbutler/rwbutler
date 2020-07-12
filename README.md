@@ -1,11 +1,7 @@
 # About Me
 
+[![Location](https://img.shields.io/badge/📍%20location-London-brightgreen)](https://en.wikipedia.org/wiki/London)
 [![Twitter](https://img.shields.io/badge/twitter-@ross_w_butler-blue.svg?style=flat)](https://twitter.com/ross_w_butler)
-
-- 📱 Technical Lead - iOS @ [Marks & Spencer](https://www.marksandspencer.com)
-- 📍 London, United Kingdom
-
-
 
 # Blogging 📖
 

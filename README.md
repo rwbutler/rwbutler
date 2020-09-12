@@ -12,7 +12,7 @@
 
 - 📖 [Blogging](https://medium.com/@rwbutler) - Primarily through [Medium](https://medium.com/@rwbutler) with posts replicated on [Engineering Blog @ GitHub Pages](https://rwbutler.github.io) as well as on [dev.to](https://dev.to/rwbutler).
 - Meet-up Organiser - Former meet-up organiser of [NSManchester](https://www.meetup.com/NSManchester/) and Developer Bytes at [Sainsbury's Tech](https://github.com/jsainsburyplc).
-- 👨🏻‍💻 [Open Source](#open-source-software) - Have written a number of libraries and tools in Swift. For a full list of open source libraries and tools see the [Open Source Software](#open-source-software) section below.
+- 👨🏻‍💻 [Open Source](#open-source-software) - Have written a number of libraries and tools in Swift. For a full list of open source libraries and tools see the Open Source Software section below.
 - 🗣 [Talks](https://github.com/rwbutler/talks) - Have given talks most recently at [NSLondon](https://www.meetup.com/NSLondon/) meet-up as well as conferences such as [iOSDevUK](http://www.iosdevuk.com) and [CodeMobile](https://www.codemobile.co.uk) in the past. Most of these can be found in the [talks](https://github.com/rwbutler/talks) repo.
 
 ## Recent Projects

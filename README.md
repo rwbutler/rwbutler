@@ -1,8 +1,14 @@
 ![Ross Butler](https://github.com/rwbutler/rwbutler/raw/master/docs/images/rwbutler-banner.png)
 
+<div align="center">
+
 [![Developer](https://img.shields.io/badge/📱%20developer-iOS-purple)](https://www.apple.com/uk/ios/ios-13/)
 [![Location](https://img.shields.io/badge/📍%20location-London-brightgreen)](https://en.wikipedia.org/wiki/London)
 [![Twitter](https://img.shields.io/badge/twitter-@ross_w_butler-blue.svg?style=flat)](https://twitter.com/ross_w_butler)
+
+</div>
+
+## About
 
 - 📖 [Blogging](https://medium.com/@rwbutler) - Primarily through [Medium](https://medium.com/@rwbutler) with posts replicated on [Engineering Blog @ GitHub Pages](https://rwbutler.github.io) as well as on [dev.to](https://dev.to/rwbutler).
 - Meet-up Organiser - Former meet-up organiser of [NSManchester](https://www.meetup.com/NSManchester/) and Developer Bytes at [Sainsbury's Tech](https://github.com/jsainsburyplc).

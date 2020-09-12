@@ -1,18 +1,15 @@
 ![Ross Butler](https://github.com/rwbutler/rwbutler/raw/master/docs/images/rwbutler-banner.png)
 
+[![Developer](https://img.shields.io/badge/📱%20developer-iOS-purple)](https://www.apple.com/uk/ios/ios-13/)
 [![Location](https://img.shields.io/badge/📍%20location-London-brightgreen)](https://en.wikipedia.org/wiki/London)
 [![Twitter](https://img.shields.io/badge/twitter-@ross_w_butler-blue.svg?style=flat)](https://twitter.com/ross_w_butler)
 
-# Blogging 📖
-
-Blogging is primarily through [Medium](https://medium.com/@rwbutler) with posts replicated on [dev.to](https://dev.to/rwbutler) as well as on [GitHub Pages](https://rwbutler.github.io).
-
-- [Medium](https://medium.com/@rwbutler)
-- [dev.to](https://dev.to/rwbutler)
-- [Ross Butler's Engineering Blog @ GitHub Pages](https://rwbutler.github.io)
+- 📖 [Blogging](https://medium.com/@rwbutler) - Primarily through [Medium](https://medium.com/@rwbutler) with posts replicated on [Engineering Blog @ GitHub Pages](https://rwbutler.github.io) as well as on [dev.to](https://dev.to/rwbutler).
+- 👨🏻‍💻 [Open Source](#open-source-software) - Have written a number of libraries and tools in [Swift](https://swift.org). For a full list of open source libraries and tools see the [Open Source Software](#open-source-software) section below.
+- 🗣 [Talks](https://github.com/rwbutler/talks) - Have given talks most recently at [NSLondon](https://www.meetup.com/NSLondon/) meet-up as well as conferences such as [iOSDevUK](http://www.iosdevuk.com) and [CodeMobile](https://www.codemobile.co.uk) in the past. Most of these can be found in the [talks](https://github.com/rwbutler/talks) repo.
 
 
-# Software
+# Open Source Software
 
 ### Controls
 
@@ -30,6 +27,7 @@ Blogging is primarily through [Medium](https://medium.com/@rwbutler) with posts 
 * [FlexibleRowHeightGridLayout](https://github.com/rwbutler/FlexibleRowHeightGridLayout) - A UICollectionView grid layout designed to support Dynamic Type by allowing the height of each row to size to fit content.
 * [Hyperconnectivity](https://github.com/rwbutler/Hyperconnectivity) - Modern replacement for Apple's Reachability written in Swift and made elegant using Combine. An offshoot of the [Connectivity](https://github.com/rwbutler/Connectivity) framework.
 * [Skylark](https://github.com/rwbutler/Skylark) - Fully Swift BDD testing framework for writing Cucumber scenarios using Gherkin syntax.
+* [SwiftQuiz](https://github.com/rwbutler/swift-quiz) - Creates quizzes which can be distributed and played with support for a variety of question types and automatic scoring.
 * [TailorSwift](https://github.com/rwbutler/TailorSwift) - A collection of useful Swift Core Library / Foundation framework extensions.
 * [TypographyKit](https://github.com/rwbutler/TypographyKit) - Consistent & accessible visual styling on iOS with Dynamic Type support.
 * [Updates](https://github.com/rwbutler/Updates) - Automatically detects app updates and gently prompts users to update.
@@ -44,6 +42,7 @@ Blogging is primarily through [Medium](https://medium.com/@rwbutler) with posts 
 * [Config Validator](https://github.com/rwbutler/ConfigValidator) - Config Validator validates & uploads your configuration files and cache clears your CDN as part of your CI process.
 * [IPA Uploader](https://github.com/rwbutler/IPAUploader) - Uploads your apps to TestFlight & App Store.
 * [Palette](https://github.com/rwbutler/TypographyKitPalette) - Makes your [TypographyKit](https://github.com/rwbutler/TypographyKit) color palette available in Xcode Interface Builder.
+* [QSH](https://github.com/rwbutler/QSH) - Quiz shell for creating & playing quizzes using the macOS Terminal.
 
 |[Config Validator](https://github.com/rwbutler/ConfigValidator) | [IPA Uploader](https://github.com/rwbutler/IPAUploader) | [Palette](https://github.com/rwbutler/TypographyKitPalette)|
 |:-------------------------:|:-------------------------:|:-------------------------:|

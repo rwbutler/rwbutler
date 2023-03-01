@@ -1,4 +1,5 @@
-![Ross Butler](https://github.com/rwbutler/rwbutler/raw/master/docs/images/rwbutler-banner.png)
+![Ross Butler](https://github.com/rwbutler/rwbutler/raw/master/docs/images/rwbutler-banner.png#gh-light-mode-only)
+![Ross Butler](https://github.com/rwbutler/rwbutler/raw/master/docs/images/rwbutler-banner-dark-mode.png#gh-dark-mode-only)
 
 <div align="center">
 

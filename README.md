@@ -11,20 +11,14 @@
 
 ## News
 
-I've made a few fixes to [Updates](https://github.com/rwbutler/Updates) (22/02/2021) recently to improve robustness.
-
-Recent projects I worked on in 2020:
-
-- [QSH](https://github.com/rwbutler/QSH) and [SwiftQuiz](https://github.com/rwbutler/SwiftQuiz) - QSH (Quiz Shell) is a client for playing quizzes using the macOS Terminal. SwiftQuiz provides the core functionality for creating and playing quizzes and is used by QSH.
-- [Lettercase](https://github.com/rwbutler/Lettercase) - Added  key decoding strategies for decoding JSON keys in some of the most popular lettercases using Codable. For more information see the blog post [Get More From Codable By Implementing a JSON Key Decoding Strategy](https://medium.com/@rwbutler/supercharge-codable-by-implementing-a-json-key-decoding-strategy-a46fedacabc4).
-- [Hyperconnectivity](https://github.com/rwbutler/Hyperconnectivity) - Provides a ReachabilityPublisher and ConnectivityPublisher for monitoring changes in Reachability and [Connectivity](https://github.com/rwbutler/Connectivity) using Combine.
+Released [TypographyKit 5.0.0](https://github.com/rwbutler/TypographyKit) improving the existing support for SwiftUI.
 
 ## About
 
 - 📖 [Blogging](https://medium.com/@rwbutler) - Primarily through [Medium](https://medium.com/@rwbutler) with posts replicated on [Engineering Blog @ GitHub Pages](https://rwbutler.github.io) as well as on [dev.to](https://dev.to/rwbutler).
-- Meet-up Organiser - Former meet-up organiser of [NSManchester](https://www.meetup.com/NSManchester/) and Developer Bytes at [Sainsbury's Tech](https://github.com/jsainsburyplc).
+- Meet-up Organiser - Co-organiser at [NSLondon](https://nslondon.com). Former organiser of [NSManchester](https://www.meetup.com/NSManchester/) and Developer Bytes at [Sainsbury's Tech](https://github.com/jsainsburyplc).
 - 👨🏻‍💻 [Open Source](#open-source-software) - Have written a number of libraries and tools in Swift. For a full list of open source libraries and tools see the Open Source Software section below.
-- 🗣 [Talks](https://github.com/rwbutler/talks) - Have given talks most recently at [NSLondon](https://www.meetup.com/NSLondon/) meet-up as well as conferences such as [iOSDevUK](http://www.iosdevuk.com) and [CodeMobile](https://www.codemobile.co.uk) in the past. Most of these can be found in the [talks](https://github.com/rwbutler/talks) repo.
+- 🗣 [Talks](https://github.com/rwbutler/talks) - Have given talks in the past at [NSLondon](https://www.meetup.com/NSLondon/), [iOSDevUK](http://www.iosdevuk.com) & [CodeMobile](https://www.codemobile.co.uk). Most of these can be found in the [talks](https://github.com/rwbutler/talks) repo.
 
 ## Open Source Software
 

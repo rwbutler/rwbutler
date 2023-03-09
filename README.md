@@ -11,7 +11,8 @@
 
 ## News
 
-Released [TypographyKit 5.0.0](https://github.com/rwbutler/TypographyKit) improving the existing support for SwiftUI.
+- Released [Connectivity 6.0.0](https://github.com/rwbutler/Connectivity) improving configurability & addressing warnings in Xcode 14.
+- Released [TypographyKit 5.0.0](https://github.com/rwbutler/TypographyKit) improving the existing support for SwiftUI.
 
 ## About
 

@@ -11,6 +11,7 @@
 
 ## News
 
+- Released [FeatureFlags 3.0.0](https://github.com/rwbutler/FeatureFlags) resolving minor issues & warnings in Xcode 14.
 - Released [Connectivity 6.0.0](https://github.com/rwbutler/Connectivity) improving configurability & addressing warnings in Xcode 14.
 - Released [TypographyKit 5.0.0](https://github.com/rwbutler/TypographyKit) improving the existing support for SwiftUI.
 
